@@ -3,6 +3,8 @@
 - JDK 21 
 - Maven 4.0 
 - MySQL 8
+- another BS
+- a computer lol!
 
 # Technologies 
 - JAKARTA
